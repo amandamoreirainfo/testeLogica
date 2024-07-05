@@ -6,9 +6,9 @@
 
 
     if ($palavra === strrev($palavra)){
-        print("A palavra $str é um palíndromo");
+        print("A palavra $palavra é um palíndromo");
     }else{
-        print("A palavra $str não é um palíndromo");
+        print("A palavra $palavra não é um palíndromo");
     }
 
 
